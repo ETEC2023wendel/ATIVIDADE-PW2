@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    color: azure;
+}
+
+.titulo{
+    text-align: center;
+}
+.subTitulo{
+    text-align: center;
+}
+.conteudo{
+    text-align: center;
+}
+.botao{
+    position:absolute; 
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+.conteudo{
+    text-align: center;
+}
+.span{
+    position:absolute; 
+    top:40%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size:xx-large;
+}
